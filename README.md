@@ -36,7 +36,7 @@ This project demonstrates file handling, process management, user input validati
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bash-task-manager.git
+git clone https://github.com/ahmedswelam141/bash-task-manager.git
 cd bash-task-manager
 
 chmod +x task_manager.sh
